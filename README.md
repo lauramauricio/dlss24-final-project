@@ -1,5 +1,5 @@
-# Deep Learning Final project
-July 2024 Laura Mauricio
+# Deep Learning for Social Sciences, Final project
+July 2024, Laura Mauricio
 
 This repository contains the code for the essay "How Are Parties Feeling? Using Sentiment Analysis on Swiss Party Manifestos to Study Political Polarization".
 
